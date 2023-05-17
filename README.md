@@ -1,4 +1,5 @@
 ## I'm a frontend designer and developer 👋
+- 💻 [My Portfolio](https://www.nickdc8.com)
 
 ## Experience in
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" alt="JS" /> JavaScript
