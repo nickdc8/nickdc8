@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Experience in
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" alt="JS" /> JavaScript
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" alt="TS" /> TypeScript
