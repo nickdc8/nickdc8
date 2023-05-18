@@ -7,7 +7,6 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" alt="CRA" /> React
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" width="16" alt="gatsby" /> Gatsby
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" alt="nextjs" /> Next.js
-- <img src="https://cdn.jsdelivr.net/npm/react-devicon@0.1.9/npm/original-wordmark/NpmOriginalWordmark.svg" width="16" alt="npm" /> npm
 
 ## with a bit of
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="16" alt="Redux" /> Redux
