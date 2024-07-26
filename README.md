@@ -6,23 +6,23 @@ I'm a passionate front-end designer and developer with a strong background in de
 ## Experience
 I have extensive experience in the following technologies:
 
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript
-- ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript
-- ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) React
-- ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) Next.js
-- ![Laravel](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg) Laravel
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" alt="JS" /> JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" alt="TS" /> TypeScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" alt="CRA" /> React
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" alt="Next.js" /> Next.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="16" alt="Laraavel" /> Laravel
 
 ### Additional Skills
 I also have experience with:
 
-- ![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg) Redux
-- ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg) Docker
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="16" alt="Redux" /> Redux
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="16" alt="Docker" /> Docker
 
 ## Currently Learning
 I'm always eager to learn new technologies and improve my skills. Currently, I'm diving into:
 
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python
-- ![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg) Go
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" alt="Python" /> Python
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="16" alt="Go" /> Go
 
 <!---
 
