@@ -1,4 +1,4 @@
-## Hi, I'm [Your Name]! 👋
+## Hi! 👋
 I'm a passionate front-end designer and developer with a strong background in design. I enjoy creating visually appealing and user-friendly web applications. Welcome to my GitHub!
 
 - 🌭[View My Portfolio](https://www.nickdc.dev)
