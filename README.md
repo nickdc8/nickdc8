@@ -10,7 +10,6 @@ I have extensive experience in the following technologies:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" alt="TS" /> TypeScript
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" alt="CRA" /> React
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" alt="Next.js" /> Next.js
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="16" alt="Laraavel" /> Laravel
 
 ### Additional Skills
 I also have experience with:
