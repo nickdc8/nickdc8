@@ -12,7 +12,7 @@ Front-end developer and product-minded designer specialising in React and Next.j
 ### Also worked with
 - Laravel (PHP) APIs — JWT, MySQL
 - Docker
-- Redux and modern state patterns
+- Redux, Zustand and modern state patterns
 - REST APIs, auth, and backend integration
 
 ### Currently
