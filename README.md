@@ -1,18 +1,21 @@
 ## Hi, I’m Nick 👋
 
-Front-end developer + product-minded designer. I build clean, user-friendly web apps—mostly React/Next.js—and I care a lot about UI details and shipping.
+Front-end developer and product-minded designer specialising in React and Next.js. I build polished, production-ready web apps with a strong focus on UI craft, performance, and usability.
 
 - 🌭 Portfolio: https://www.nickdc.dev
 
 ### Core stack
-- JavaScript / TypeScript
+- TypeScript / JavaScript
 - React / Next.js
+- Tailwind CSS
 
-### Also used at work
-- Laravel (PHP) APIs (JWT, MySQL)
-- Redux
+### Also worked with
+- Laravel (PHP) APIs — JWT, MySQL
 - Docker
+- Redux and modern state patterns
+- REST APIs, auth, and backend integration
 
 ### Currently
-- Building + iterating on side projects
-- Refreshing backend fundamentals + system design
+- Shipping side projects and small SaaS products
+- Deepening backend and architecture knowledge
+- Exploring AI-assisted development workflows
