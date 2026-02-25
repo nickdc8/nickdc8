@@ -1,4 +1,4 @@
-## Hi, I’m Nick 👋
+## Hi, I’m Nick
 
 Front-end developer and product-minded designer specialising in React and Next.js. I build polished, production-ready web apps with a strong focus on UI craft, performance, and usability.
 
