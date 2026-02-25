@@ -2,7 +2,7 @@
 
 Front-end developer and product-minded designer specialising in React and Next.js. I build polished, production-ready web apps with a strong focus on UI craft, performance, and usability.
 
-- 🌭 Portfolio: https://www.nickdc.dev
+- Portfolio: https://www.nickdc.dev
 
 ### Core stack
 - TypeScript / JavaScript
