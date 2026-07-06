@@ -59,7 +59,3 @@ I enjoy working where design and engineering overlap, taking ideas from discover
 - Creating reusable design systems and component libraries
 - Exploring AI-assisted product development workflows
 - Learning more about backend architecture and cloud technologies
-
----
-
-> I enjoy building software that feels as good to use as it is to maintain.
