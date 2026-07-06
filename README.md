@@ -4,7 +4,7 @@ Senior UI Designer and Front-end Developer from North Wales, UK.
 
 I build design-led web applications, design systems and developer-ready interfaces using React, Next.js and TypeScript. My background spans over 10 years across product design and front-end development, with a focus on turning complex business problems into clean, scalable user experiences.
 
-I enjoy working where design and engineering overlap—taking ideas from discovery and Figma through to production-quality code.
+I enjoy working where design and engineering overlap, taking ideas from discovery and Figma through to production-quality code.
 
 🌐 Portfolio: https://www.nickdc.dev
 
