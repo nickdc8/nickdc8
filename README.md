@@ -1,21 +1,65 @@
-## Hi, I’m Nick
+## Hi, I'm Nick 👋
 
-Front-end developer and product-minded designer specialising in React and Next.js. I build polished, production-ready web apps with a strong focus on UI craft, performance, and usability.
+Senior UI Designer and Front-end Developer from North Wales, UK.
 
-- Portfolio: https://www.nickdc.dev
+I build design-led web applications, design systems and developer-ready interfaces using React, Next.js and TypeScript. My background spans over 10 years across product design and front-end development, with a focus on turning complex business problems into clean, scalable user experiences.
 
-### Core stack
-- TypeScript / JavaScript
-- React / Next.js
+I enjoy working where design and engineering overlap—taking ideas from discovery and Figma through to production-quality code.
+
+🌐 Portfolio: https://www.nickdc.dev
+
+---
+
+## Tech I use
+
+### Front-end
+- TypeScript
+- JavaScript
+- React
+- Next.js
 - Tailwind CSS
+- HTML5 / CSS3
 
-### Also worked with
-- Laravel (PHP) APIs — JWT, MySQL
+### Design
+- Figma
+- Design Systems
+- UI / UX Design
+- Prototyping
+- Accessibility
+
+### Development
+- Storybook
+- REST APIs
+- Git
 - Docker
-- Redux, Zustand and modern state patterns
-- REST APIs, auth, and backend integration
+- Redux
+- Zustand
 
-### Currently
-- Shipping side projects and small SaaS products
-- Deepening backend and architecture knowledge
-- Exploring AI-assisted development workflows
+### Previously worked with
+- Laravel / PHP
+- MySQL
+- JWT authentication
+- Node.js
+
+---
+
+## What I'm interested in
+
+- 🎨 Design systems and scalable component libraries
+- ⚛️ Modern React architecture
+- 🚀 Performance and accessibility
+- 🤖 AI-assisted design and development workflows
+- 🛠 Building polished products from concept to production
+
+---
+
+## Currently
+
+- Designing and building enterprise web applications
+- Creating reusable design systems and component libraries
+- Exploring AI-assisted product development workflows
+- Learning more about backend architecture and cloud technologies
+
+---
+
+> I enjoy building software that feels as good to use as it is to maintain.
