@@ -1,61 +1,56 @@
 ## Hi, I'm Nick 👋
 
-Senior UI Designer and Front-end Developer from North Wales, UK.
+I'm a senior UI designer and front-end developer based in North Wales.
 
-I build design-led web applications, design systems and developer-ready interfaces using React, Next.js and TypeScript. My background spans over 10 years across product design and front-end development, with a focus on turning complex business problems into clean, scalable user experiences.
+I've spent more than 10 years designing and building digital products. These days, I mostly work with React, Next.js and TypeScript, creating web applications, design systems and interfaces that developers can put straight into production.
 
-I enjoy working where design and engineering overlap, taking ideas from discovery and Figma through to production-quality code.
+I particularly enjoy the space where design meets code. That might mean working through an early idea in Figma, figuring out a complicated workflow or turning a design into reusable components that hold up in a real product.
 
-🌐 Portfolio: https://www.nickdc.dev
+🌐 [Take a look at my work](https://www.nickdc.dev)
 
 ---
 
-## Tech I use
+## What I work with
 
 ### Front-end
-- TypeScript
-- JavaScript
+
+- TypeScript and JavaScript
 - React
 - Next.js
 - Tailwind CSS
-- HTML5 / CSS3
+- shadcn/ui
+- HTML and CSS
+- Framer Motion
 
-### Design
+### Design and UX
+
 - Figma
-- Design Systems
-- UI / UX Design
+- Design systems
+- Component libraries
+- UI and UX design
 - Prototyping
+- Responsive design
 - Accessibility
 
-### Development
+### Development and tooling
+
+- Git
 - Storybook
 - REST APIs
-- Git
+- Playwright
 - Docker
-- Redux
 - Zustand
-
-### Previously worked with
-- Laravel / PHP
-- MySQL
-- JWT authentication
-- Node.js
+- Redux
+- React Flow
 
 ---
 
-## What I'm interested in
+## What interests me
 
-- 🎨 Design systems and scalable component libraries
-- ⚛️ Modern React architecture
-- 🚀 Performance and accessibility
-- 🤖 AI-assisted design and development workflows
-- 🛠 Building polished products from concept to production
+- Design systems that work for both designers and developers
+- Modern React and Next.js development
+- Turning Figma designs into well-built production interfaces
+- Performance, responsive design and accessibility
+- Finding useful ways to bring AI into design and development
+- Taking products from a rough idea to something polished and usable
 
----
-
-## Currently
-
-- Designing and building enterprise web applications
-- Creating reusable design systems and component libraries
-- Exploring AI-assisted product development workflows
-- Learning more about backend architecture and cloud technologies
