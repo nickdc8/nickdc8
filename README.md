@@ -1,56 +1,30 @@
 ## Hi, I'm Nick 👋
 
-I'm a senior UI designer and front-end developer based in North Wales.
+I'm a senior UI designer and front-end developer based in North Wales. I've spent more than 10 years designing and building digital products, working across UI, UX and front-end development.
 
-I've spent more than 10 years designing and building digital products. These days, I mostly work with React, Next.js and TypeScript, creating web applications, design systems and interfaces that developers can put straight into production.
+I'm a designer who codes. I enjoy figuring out how something should work, designing the details and building it into a usable product. Most of my work involves React, Next.js, TypeScript and Figma, from early prototypes to design systems and production interfaces.
 
-I particularly enjoy the space where design meets code. That might mean working through an early idea in Figma, figuring out a complicated workflow or turning a design into reusable components that hold up in a real product.
+AI has changed how I work. I use it to explore ideas, build tools and move between design and development more easily. The part I enjoy most is still deciding what's worth making, and giving it the care it deserves.
 
-🌐 [Take a look at my work](https://www.nickdc.dev)
-
----
+🌐 [Design & code — nickdc.dev](https://www.nickdc.dev)
 
 ## What I work with
 
-### Front-end
+**Design**  
+Figma · UI and UX · Design systems · Component libraries · Prototyping · Accessibility
 
-- TypeScript and JavaScript
-- React
-- Next.js
-- Tailwind CSS
-- shadcn/ui
-- HTML and CSS
-- Framer Motion
+**Front-end**  
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · shadcn/ui · HTML and CSS · Framer Motion
 
-### Design and UX
-
-- Figma
-- Design systems
-- Component libraries
-- UI and UX design
-- Prototyping
-- Responsive design
-- Accessibility
-
-### Development and tooling
-
-- Git
-- Storybook
-- REST APIs
-- Playwright
-- Docker
-- Zustand
-- Redux
-- React Flow
-
----
+**Tools and development**  
+Git · Storybook · Playwright · REST APIs · Docker · Zustand · Redux · React Flow
 
 ## What interests me
 
-- Design systems that work for both designers and developers
-- Modern React and Next.js development
-- Turning Figma designs into well-built production interfaces
-- Performance, responsive design and accessibility
-- Finding useful ways to bring AI into design and development
-- Taking products from a rough idea to something polished and usable
-
+- Closing the gap between design and working software
+- Components that are easy to use, maintain and build on
+- Interfaces with thoughtful typography, interactions and motion
+- Practical uses for AI in design and development
+- Small tools and personal projects that solve everyday problems
+- Taking a rough idea through to something useful and finished
+```
