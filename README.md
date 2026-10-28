@@ -1,5 +1,3 @@
-## Hi, I'm Nick 👋
-
 I'm a senior UI designer and front-end developer based in North Wales. I've spent more than 10 years designing and building digital products, working across UI, UX and front-end development.
 
 I'm a designer who codes. I enjoy figuring out how something should work, designing the details and building it into a usable product. Most of my work involves React, Next.js, TypeScript and Figma, from early prototypes to design systems and production interfaces.
